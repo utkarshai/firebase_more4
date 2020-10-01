@@ -17,5 +17,6 @@ samples, guidance on mobile development, and a full API reference.
 
 about App:
 extracting images and title  subtitle from data base firebase
+we can upload some images in the app for future use
 
 commit by utkarsh
